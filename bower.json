@@ -1,0 +1,17 @@
+{
+  "name": "rateri",
+  "homepage": "https://github.com/RHPTeam/css-library-rhp",
+  "authors": [
+    "huan2001 <rateri2001@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
